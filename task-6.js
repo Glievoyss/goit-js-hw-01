@@ -8,4 +8,4 @@ do  {
     total = total + Number(input);
 } while (input !== null);
 
-console.log(total);
+alert.log(total);
